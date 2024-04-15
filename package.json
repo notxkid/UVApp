@@ -1,7 +1,7 @@
 {
   "name": "uv-app",
   "version": "1.0.0",
-  "description": "Ultraviolet instance",
+  "description": "uv instance",
   "type": "module",
   "engines": {
     "npm": ">=7.0.0",
@@ -16,11 +16,7 @@
   "author": "",
   "license": "GPL-3.0-or-later",
   "dependencies": {
-    "@mercuryworkshop/bare-mux": "^1.0.5",
-    "@mercuryworkshop/epoxy-transport": "^1.1.0",
-    "@titaniumnetwork-dev/ultraviolet": "^3.0.0",
     "express": "^4.18.2",
-    "ultraviolet-static": "github:titaniumnetwork-dev/Ultraviolet-Static",
     "wisp-server-node": "^1.0.1",
     "ws": "^8.16.0"
   },
